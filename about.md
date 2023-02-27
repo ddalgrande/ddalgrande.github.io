@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+With 8+ years of experience and driven by a passion for tech and innovation, I thrive proposing and shaping high-impact solutions to grow business. I’m capable of building teams and roadmaps to deliver cutting-edge products that go beyond prototyping and generate value for companies and clients. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m confident in both technical and business/operational areas. I have extensive experience in strategy, product and marketing with a particular focus on data including analytics and machine learning using cloud technology (GCP, AWS). ML experience spans across NLP (incl. NNs and language models for classification, clustering, summarisation), network graphs, recommendation and computer vision, with hands-on proficiency in Python and SQL.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I’m a strategic thinker and effective communicator, comfortable with stakeholders at multiple levels and to work with globally distributed teams. I have proven management and leadership skills that allow me to influence and counsel large global clients as well as internal tech and non-tech teams. 
