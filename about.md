@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /aboutme/
 ---
 
 With 8+ years of experience and driven by a passion for tech and innovation, I thrive proposing and shaping high-impact solutions to grow business. I’m capable of building teams and roadmaps to deliver cutting-edge products that go beyond prototyping and generate value for companies and clients. 
